@@ -1,44 +1,34 @@
-# 👋 안녕하세요, 이광훈(Adam KwangHoon Lee)입니다!  
+# 👋 안녕하세요, 이광훈(Adam KwangHoon Lee)입니다!
 
-프론트엔드 개발자로서 **사용자 친화적인 UI/UX, 확장 가능한 시스템, 그리고 안정적인 서비스**를 만드는 것에 집중하고 있습니다.  
-짧은 시간 안에 다양한 프로젝트를 경험하며, 국제 협업과 데이터 시각화, 인증 구조 설계 등 폭넓은 역량을 쌓았습니다.  
-
----
-
-## 🚀 About Me
-- 🌱 **성장 중심** : 새로운 기술을 빠르게 습득하고 서비스에 적용  
-- 🤝 **협업 중심** : 디자이너·백엔드·해외 클라이언트와 원활한 소통  
-- 🎨 **UX 감각** : Figma · AI 툴과 연계해 디자인과 개발을 연결  
-- 🔒 **안정성 지향** : 인증/데이터 구조 설계를 통한 보안 강화  
-- 📊 **데이터 중심** : 복잡한 정보를 시각화하여 직관적 UI 구현  
-- ⚡ **퍼포먼스 최적화** : 렌더링 개선과 리팩토링으로 경험 향상  
+**실시간 데이터가 흐르는 화면**에서 사용자가 판단할 수 있게 만드는 프론트엔드 개발자입니다.  
+WebSocket 시세·시계열 차트·대용량 테이블이 겹치는 화면도 읽히게 설계하고, **Next.js · TypeScript**로 체감 속도와 유지보수성을 함께 챙깁니다.
 
 ---
 
 ## 💼 주요 경험
-- 🇵🇭 **필리핀 선거관리위원회** – 전자투표 시스템 & 실시간 선거결과 포털 개발  
-- 🖥 **대기업 전자제품 제조사 하드웨어 성능 시각화** – AG Grid 기반 대규모 데이터 관리 페이지  
-- 📱 **Lifezip 커뮤니티 플랫폼** – 반응형 웹/모바일 UI 및 에디터 커스터마이징  
-- 💳 **LINE Financial 백오피스** – CMS, 대시보드, 이벤트 관리 시스템 개발  
+
+- **에이엠매니지먼트** — 가상자산 트레이딩 터미널 · 시장 인텔리전스 대시보드 (WebSocket · BFF · TanStack Query)
+- **㈜인텔리코드** — Vue → Next.js 마이그레이션, 필리핀 선거관리위원회 전자투표 · 실시간 결과 포털
+- **㈜제이앤퍼스트** — LINE Financial 백오피스 CMS · 대시보드 · 이벤트 관리
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend** : React, Next.js, Vue, TypeScript, JavaScript  
-- **Styling** : TailwindCSS, SCSS, Vuetify  
-- **Data Visualization** : Chart.js, AG Grid  
-- **Collaboration** : Git, Jira, Confluence, Figma  
-- **Cloud & Tools** : Supabase, AWS S3  
+
+- **Frontend** : Next.js, React, TypeScript, Vue
+- **Realtime & State** : WebSocket, TanStack Query, Zustand, Supabase
+- **Visualization** : Lightweight Charts, Chart.js, AG Grid
+- **Styling** : Tailwind CSS, SCSS Modules, Radix UI
 
 ---
 
 ## 📌 Links
-- 🗂 **Portfolio** : https://maniabang.github.io/ 
-- 💼 **Resume** : https://maniabang.notion.site/9c480cc642b24f5f8d28f891f7e8a581  
+
+- 🗂 **Portfolio** : https://maniabang.github.io/
+- 💼 **Resume** : https://maniabang.notion.site/9c480cc642b24f5f8d28f891f7e8a581
 
 ---
 
-### 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maniabang&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maniabang&layout=compact&theme=radical)
